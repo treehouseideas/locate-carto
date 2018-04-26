@@ -1,2 +1,2 @@
 # locate-carto
-User location using Carto4
+User location using Carto.JS
